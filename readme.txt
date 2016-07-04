@@ -3,5 +3,5 @@ git is free software distributed under the GPL.
 git is nice.
 git has a mutable index called stage.
 git tracks changes.
-git create branch and merge.
-another test branch.
+use git is quick and simple
+something deserve learn.
